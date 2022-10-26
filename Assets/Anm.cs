@@ -8,9 +8,11 @@ public class Anm : MonoBehaviour
 
     public string animWalk;
     public string animIdle;
+    public string animAtk;
 
     public KeyCode walkKey;
     public KeyCode idleKey;
+    public KeyCode AtkKey;
 
 
     void Update()
@@ -23,6 +25,9 @@ public class Anm : MonoBehaviour
         {
             playerAnimator.Play(animIdle);
         }
-
+        if(Input.GetKeyDown(AtkKey))
+        {
+            playerAnimator.Play(animAtk);
+        }
     }
 }
