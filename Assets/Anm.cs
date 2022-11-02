@@ -6,28 +6,42 @@ public class Anm : MonoBehaviour
 {
     public Animator playerAnimator;
 
-    public string animWalk;
+    public string animRun;
     public string animIdle;
     public string animAtk;
+    public string animJump;
+    public string animExtra;
+    
 
-    public KeyCode walkKey;
-    public KeyCode idleKey;
+    public KeyCode RunKey;
+    public KeyCode IdleKey;
     public KeyCode AtkKey;
+    public KeyCode JumpKey;
+    public KeyCode ExtraKey;
 
 
     void Update()
     {
-        if (Input.GetKeyDown(walkKey))
+        if (Input.GetKeyDown(RunKey))
         {
-            playerAnimator.Play(animWalk);
+            playerAnimator.Play(animRun);
         }
-        if (Input.GetKeyDown(idleKey))
+        if (Input.GetKeyDown(IdleKey))
         {
             playerAnimator.Play(animIdle);
         }
         if(Input.GetKeyDown(AtkKey))
         {
             playerAnimator.Play(animAtk);
+        }        
+        if(Input.GetKeyDown(JumpKey))
+        {
+            playerAnimator.Play(animJump);
+        }        
+        if(Input.GetKeyDown(ExtraKey))
+        {
+            playerAnimator.Play(animExtra);
         }
+        
     }
 }
