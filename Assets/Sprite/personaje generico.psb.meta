@@ -106,17 +106,17 @@ ScriptedImporter:
     spriteBone:
     - name: Hombro De
       guid: 14328e93277c8174f833a981b1adecc6
-      position: {x: 111.154205, y: 340.71252, z: 0}
+      position: {x: 111.154175, y: 340.71252, z: 0}
       rotation: {x: 0, y: 0, z: -0.8514552, w: 0.5244273}
-      length: 166.43356
+      length: 166.43358
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278255615
     - name: Codo De
       guid: 09a81caffb1c88e468a11e8ada43b0ce
-      position: {x: 166.43355, y: -0.000051845836, z: 0}
-      rotation: {x: 0, y: 0, z: 0.18137984, w: 0.98341316}
+      position: {x: 166.43356, y: -0.00007909964, z: 0}
+      rotation: {x: 0, y: 0, z: 0.18137975, w: 0.9834132}
       length: 125.13789
       parentId: 0
       color:
@@ -124,8 +124,8 @@ ScriptedImporter:
         rgba: 4278255360
     - name: Mano De
       guid: 60753dabaee3393429ecbb250261331f
-      position: {x: 125.13793, y: -0.00006377474, z: 0}
-      rotation: {x: 0, y: 0, z: 0.10910918, w: 0.9940298}
+      position: {x: 125.1379, y: 0.000000032970547, z: 0}
+      rotation: {x: 0, y: 0, z: 0.10910926, w: 0.99402976}
       length: 56.218258
       parentId: 1
       color:
@@ -913,7 +913,7 @@ ScriptedImporter:
         rgba: 4278190335
     - name: Columna_2
       guid: 07e828e7a51c31a4b9f05ce25799316c
-      position: {x: 54.56411, y: 0.000045084525, z: 0}
+      position: {x: 54.56411, y: 0.000106104824, z: 0}
       rotation: {x: 0, y: 0, z: 0.08404802, w: 0.9964617}
       length: 86.847046
       parentId: 1
@@ -922,7 +922,7 @@ ScriptedImporter:
         rgba: 4278255488
     - name: Columna 3
       guid: bab2657c0a5f0cb419f9c3d78f496943
-      position: {x: 86.847046, y: -0.000055677796, z: 0}
+      position: {x: 86.84704, y: -0.00011671295, z: 0}
       rotation: {x: 0, y: 0, z: 0.07695624, w: 0.99703455}
       length: 54.144955
       parentId: 2
@@ -2071,23 +2071,23 @@ ScriptedImporter:
       guid: b1d174d987da8824eb0deca4bd35358d
       position: {x: 114.489136, y: 428.5027, z: 0}
       rotation: {x: 0, y: 0, z: -0.75480646, w: 0.6559477}
-      length: 215.97208
+      length: 215.9721
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4294901888
     - name: Rodila De
       guid: 8bfc828136b579247800b75cc6a32695
-      position: {x: 215.97214, y: -0.00002139027, z: 0}
+      position: {x: 215.97217, y: -0.00001713412, z: 0}
       rotation: {x: 0, y: 0, z: -0.043595385, w: 0.9990493}
-      length: 163.85138
+      length: 163.85135
       parentId: 0
       color:
         serializedVersion: 2
         rgba: 4286578943
     - name: Pie De Idle
       guid: d80beb2f38c7e2849988b155eacffac4
-      position: {x: 163.85133, y: 0.0000046877367, z: 0}
+      position: {x: 163.85132, y: 0.00000049449864, z: 0}
       rotation: {x: 0, y: 0, z: 0.05039477, w: 0.99872935}
       length: 47.82187
       parentId: 1
@@ -2801,7 +2801,7 @@ ScriptedImporter:
       guid: 541685541440fc744b8dde87c264a374
       position: {x: 199.8733, y: -0.00054795056, z: 0}
       rotation: {x: 0, y: 0, z: -0.08476554, w: 0.99640095}
-      length: 178.43468
+      length: 178.4347
       parentId: 0
       color:
         serializedVersion: 2
@@ -2809,8 +2809,8 @@ ScriptedImporter:
     - name: Pie De
       guid: 69ff30b2fad175d408850a47ec24f4ee
       position: {x: 178.43466, y: 0.000039541184, z: 0}
-      rotation: {x: 0, y: 0, z: 0.2969916, w: 0.9548801}
-      length: 54.42114
+      rotation: {x: 0, y: 0, z: 0.3969275, w: 0.91785}
+      length: 63.56693
       parentId: 1
       color:
         serializedVersion: 2
@@ -3893,35 +3893,35 @@ ScriptedImporter:
     - name: Muslo Izq
       guid: c8f0a5c4617a7cc419ec085f41e4508a
       position: {x: 52.472412, y: 430.70007, z: 0}
-      rotation: {x: 0, y: 0, z: -0.68922544, w: 0.72454697}
-      length: 197.23926
+      rotation: {x: 0, y: 0, z: -0.68922466, w: 0.7245478}
+      length: 197.23927
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278255488
     - name: Rodilla Izq
       guid: b35acb7a630754a4ebbb636d13f5e5dd
-      position: {x: 197.23927, y: 0.00021527795, z: 0}
-      rotation: {x: 0, y: 0, z: -0.08923, w: 0.996011}
-      length: 185.39484
+      position: {x: 197.23926, y: -0.0002006565, z: 0}
+      rotation: {x: 0, y: 0, z: -0.089231126, w: 0.99601096}
+      length: 185.39482
       parentId: 0
       color:
         serializedVersion: 2
         rgba: 4286643968
     - name: Pie Izq
       guid: 860a223db1266034bad975c403738389
-      position: {x: 185.39478, y: -0.000037121787, z: 0}
+      position: {x: 185.39471, y: -0.000035942296, z: 0}
       rotation: {x: 0, y: 0, z: 0.41368914, w: 0.9104182}
-      length: 64.15989
+      length: 64.1599
       parentId: 1
       color:
         serializedVersion: 2
         rgba: 4294934528
     - name: Pie De
       guid: 69ff30b2fad175d408850a47ec24f4ee
-      position: {x: -49.194458, y: 51.364746, z: 0}
-      rotation: {x: 0, y: 0, z: -0.5261175, w: 0.85041195}
-      length: 54.421146
+      position: {x: -49.194458, y: 51.364716, z: 0}
+      rotation: {x: 0, y: 0, z: -0.4326249, w: 0.901574}
+      length: 63.566944
       parentId: -1
       color:
         serializedVersion: 2
@@ -5073,63 +5073,63 @@ ScriptedImporter:
     spriteBone:
     - name: Cabeza_9
       guid: ab41d600a5809e94d922168fcc3e64a6
-      position: {x: 40.45343, y: 52.33026, z: 0}
-      rotation: {x: 0, y: 0, z: 0.49881506, w: -0.8667085}
-      length: 47.18579
+      position: {x: 40.45331, y: 52.33026, z: 0}
+      rotation: {x: 0, y: 0, z: 0.49881497, w: -0.8667085}
+      length: 47.1858
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4294934528
     - name: Cabeza_10
       guid: f04f797099fbc8b40b74d9297fb59542
-      position: {x: 33.387695, y: 101.790955, z: 0}
-      rotation: {x: 0, y: 0, z: -0.9775247, w: 0.21082121}
-      length: 21.014084
+      position: {x: 33.387573, y: 101.790955, z: 0}
+      rotation: {x: 0, y: 0, z: -0.97752464, w: 0.21082118}
+      length: 21.014091
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4294901888
     - name: Cabeza_11
       guid: c03d0daea02ffdc409885087a8438b75
-      position: {x: 28.601135, y: 70.33667, z: 0}
-      rotation: {x: 0, y: 0, z: -0.9341426, w: 0.3569001}
-      length: 29.055384
+      position: {x: 28.601013, y: 70.33667, z: 0}
+      rotation: {x: 0, y: 0, z: -0.9341426, w: 0.35690013}
+      length: 29.055382
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4286578943
     - name: Cabeza_8
       guid: 41bd8c7d44edad44cb10a25f78798cb2
-      position: {x: 56.96997, y: 133.3919, z: 0}
+      position: {x: 56.96985, y: 133.3919, z: 0}
       rotation: {x: 0, y: 0, z: -0.9977049, w: -0.06771245}
-      length: 20.168179
+      length: 20.16818
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4286643968
     - name: Cabeza_6
       guid: f0b96bdcac7f82b4c85e115ae4b6b219
-      position: {x: 108.29053, y: 112.95447, z: 0}
-      rotation: {x: 0, y: 0, z: 0.54714024, w: -0.83704096}
-      length: 52.062687
+      position: {x: 108.290405, y: 112.95447, z: 0}
+      rotation: {x: 0, y: 0, z: 0.54714024, w: -0.837041}
+      length: 52.06269
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278190335
     - name: Cabeza_7
       guid: 6cfe19b1e318d94458743f476e01018c
-      position: {x: 146.44025, y: 116.133545, z: 0}
-      rotation: {x: 0, y: 0, z: 0.4350898, w: -0.90038705}
-      length: 50.43063
+      position: {x: 146.44012, y: 116.133545, z: 0}
+      rotation: {x: 0, y: 0, z: 0.43508974, w: -0.90038705}
+      length: 50.430626
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278255615
     - name: Cabeza_5
       guid: 95f3a7f9afed80147a3c7053c21ec460
-      position: {x: 121.91547, y: 136.57068, z: 0}
-      rotation: {x: 0, y: 0, z: -0.22067794, w: -0.97534674}
-      length: 32.70614
+      position: {x: 121.915405, y: 136.57068, z: 0}
+      rotation: {x: 0, y: 0, z: -0.22067806, w: -0.97534674}
+      length: 32.706142
       parentId: -1
       color:
         serializedVersion: 2
@@ -5874,9 +5874,9 @@ ScriptedImporter:
     spriteBone:
     - name: ceja Iz
       guid: f6d2b3a9a12f80b45b96b1926fcd54f6
-      position: {x: 1.2104492, y: 3.664856, z: 0}
-      rotation: {x: 0, y: 0, z: -0.23301433, w: -0.97247326}
-      length: 29.623596
+      position: {x: 1.2103882, y: 3.664917, z: 0}
+      rotation: {x: 0, y: 0, z: -0.2330144, w: -0.9724733}
+      length: 29.623594
       parentId: -1
       color:
         serializedVersion: 2
@@ -6091,9 +6091,9 @@ ScriptedImporter:
     spriteBone:
     - name: Ceja De
       guid: 5b828ee36c88e9a409973c657e638854
-      position: {x: 46.839844, y: 3.828308, z: 0}
-      rotation: {x: 0, y: 0, z: -0.97657585, w: -0.2151738}
-      length: 30.098444
+      position: {x: 46.839783, y: 3.8283691, z: 0}
+      rotation: {x: 0, y: 0, z: -0.9765758, w: -0.2151737}
+      length: 30.098457
       parentId: -1
       color:
         serializedVersion: 2
@@ -6374,18 +6374,18 @@ ScriptedImporter:
     spriteBone:
     - name: Nariz
       guid: 710e8a5980141c9469d38b81db466d1a
-      position: {x: 21.86847, y: 16.990112, z: 0}
-      rotation: {x: 0, y: 0, z: -0.7071044, w: -0.7071093}
-      length: 9.612366
+      position: {x: 21.868347, y: 16.990173, z: 0}
+      rotation: {x: 0, y: 0, z: -0.70710444, w: -0.7071093}
+      length: 9.612365
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278223103
     - name: Boca
       guid: 14760bd47015dcb4da24e8950111e753
-      position: {x: 16.52826, y: 1.369873, z: 0}
-      rotation: {x: 0, y: 0, z: -0.723348, w: -0.6904836}
-      length: 5.74699
+      position: {x: 16.528137, y: 1.3699341, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7233481, w: -0.6904837}
+      length: 5.7469893
       parentId: -1
       color:
         serializedVersion: 2
@@ -6699,9 +6699,9 @@ ScriptedImporter:
     spriteBone:
     - name: iris izq
       guid: 693bf75d35e2a9c43bcf15da7756317f
-      position: {x: 9.13623, y: 0.68878174, z: 0}
-      rotation: {x: 0, y: 0, z: -0.66481805, w: -0.7470054}
-      length: 15.683449
+      position: {x: 9.136169, y: 0.68896484, z: 0}
+      rotation: {x: 0, y: 0, z: -0.66481805, w: -0.7470053}
+      length: 15.683454
       parentId: -1
       color:
         serializedVersion: 2
@@ -6916,9 +6916,9 @@ ScriptedImporter:
     spriteBone:
     - name: Ojo Iz
       guid: 01655781aa31b0f4cab623ede7cf8c73
-      position: {x: 13.413452, y: 9.588684, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7168569, w: -0.6972203}
-      length: 8.499798
+      position: {x: 13.413391, y: 9.588806, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7168569, w: -0.6972204}
+      length: 8.499797
       parentId: -1
       color:
         serializedVersion: 2
@@ -7199,9 +7199,9 @@ ScriptedImporter:
     spriteBone:
     - name: iris der
       guid: 062ac3932282f224e8b7d3e478491f1a
-      position: {x: 12.5336, y: 1.5778809, z: 0}
-      rotation: {x: 0, y: 0, z: -0.6706834, w: -0.7417438}
-      length: 16.680847
+      position: {x: 12.533539, y: 1.5779419, z: 0}
+      rotation: {x: 0, y: 0, z: -0.67068344, w: -0.7417438}
+      length: 16.680845
       parentId: -1
       color:
         serializedVersion: 2
@@ -7449,8 +7449,8 @@ ScriptedImporter:
     spriteBone:
     - name: Frente_12
       guid: 5b02bba698d3acc4a9b667fd55375f3b
-      position: {x: 20.460785, y: 13.267578, z: 0}
-      rotation: {x: 0, y: 0, z: 0.7205662, w: -0.6933862}
+      position: {x: 20.460724, y: 13.267639, z: 0}
+      rotation: {x: 0, y: 0, z: 0.72056615, w: -0.69338626}
       length: 11.363983
       parentId: -1
       color:
@@ -7754,27 +7754,27 @@ ScriptedImporter:
     spriteBone:
     - name: Cabeza
       guid: 7cf3f1daaba50464c82e04d95a12925c
-      position: {x: 26.163666, y: 37.77246, z: 0}
-      rotation: {x: 0, y: 0, z: -0.7097406, w: -0.7044633}
-      length: 160.22972
+      position: {x: 26.163574, y: 37.77246, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7097406, w: -0.70446324}
+      length: 160.22975
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4286578943
     - name: Pera
       guid: dedc2e159539f2c44956e94bcf391603
-      position: {x: 5.6396117, y: -16.252718, z: 0}
-      rotation: {x: 0, y: 0, z: -0.8185894, w: 0.5743793}
-      length: 79.743286
+      position: {x: 5.6396527, y: -16.252716, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8185893, w: 0.5743793}
+      length: 79.74332
       parentId: 0
       color:
         serializedVersion: 2
         rgba: 4278223103
     - name: Ojo der
       guid: 2130e53074ea39942a7c8a3d789528b3
-      position: {x: 76.4376, y: -7.419506, z: 0}
+      position: {x: 76.437706, y: -7.419502, z: 0}
       rotation: {x: 0, y: 0, z: -0.7804919, w: 0.62516594}
-      length: 93.642334
+      length: 93.64236
       parentId: 0
       color:
         serializedVersion: 2
@@ -8290,9 +8290,9 @@ ScriptedImporter:
     spriteBone:
     - name: Cuello
       guid: af4f510135813724cb93616abd3b3eaf
-      position: {x: 54.14494, y: -0.0000393426, z: 0}
-      rotation: {x: 0, y: 0, z: -0.045082156, w: 0.9989833}
-      length: 74.333015
+      position: {x: 54.144962, y: 0.00001810808, z: 0}
+      rotation: {x: 0, y: 0, z: -0.045081485, w: 0.9989833}
+      length: 74.33311
       parentId: 1
       color:
         serializedVersion: 2
@@ -8845,7 +8845,7 @@ ScriptedImporter:
       guid: b6bda867516081b4697f740fe8fcf0ad
       position: {x: 26.621826, y: 322.42883, z: 0}
       rotation: {x: 0, y: 0, z: -0.64898896, w: 0.76079786}
-      length: 170.35732
+      length: 170.35739
       parentId: -1
       color:
         serializedVersion: 2
@@ -8854,16 +8854,16 @@ ScriptedImporter:
       guid: a93acb01fa8ff19429b588479f00169e
       position: {x: 170.35738, y: 0.000038564576, z: 0}
       rotation: {x: 0, y: 0, z: 0.20292655, w: 0.979194}
-      length: 119.84749
+      length: 119.84747
       parentId: 0
       color:
         serializedVersion: 2
         rgba: 4294902015
     - name: Mano Izq
       guid: a71b5c3c587e915428dbd5fb1f3bdfcd
-      position: {x: 119.847496, y: 0.000017210165, z: 0}
-      rotation: {x: 0, y: 0, z: 0.06383417, w: 0.9979605}
-      length: 53.682938
+      position: {x: 119.84752, y: 0.0000008196148, z: 0}
+      rotation: {x: 0, y: 0, z: 0.06383409, w: 0.99796057}
+      length: 53.682945
       parentId: 1
       color:
         serializedVersion: 2
@@ -9726,17 +9726,17 @@ ScriptedImporter:
     spriteBone:
     - name: Cabeza_15
       guid: 733a00275259f0440910d78ed621b921
-      position: {x: 27.342468, y: 48.368896, z: 0}
-      rotation: {x: 0, y: 0, z: -0.8064229, w: 0.5913393}
-      length: 27.882147
+      position: {x: 27.342346, y: 48.368896, z: 0}
+      rotation: {x: 0, y: 0, z: -0.8064228, w: 0.5913393}
+      length: 27.882153
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4286578943
     - name: Cabeza_19
       guid: 521172f9bde88844e8233de3c906248a
-      position: {x: 157.18976, y: 53.855103, z: 0}
-      rotation: {x: 0, y: 0, z: 0.48399794, w: -0.8750691}
+      position: {x: 157.1897, y: 53.855164, z: 0}
+      rotation: {x: 0, y: 0, z: 0.4839979, w: -0.8750692}
       length: 34.935726
       parentId: -1
       color:
@@ -9744,35 +9744,35 @@ ScriptedImporter:
         rgba: 4294901760
     - name: Cabeza_20
       guid: e8e1826b8d84a584fbb705b672b457bd
-      position: {x: 159.31555, y: 112.23151, z: 0}
-      rotation: {x: 0, y: 0, z: 0.4710942, w: -0.8820829}
-      length: 30.80611
+      position: {x: 159.31543, y: 112.23157, z: 0}
+      rotation: {x: 0, y: 0, z: 0.4710942, w: -0.88208294}
+      length: 30.806108
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4294902015
     - name: Cabeza_18
       guid: cdc89d35c64ad9b4d803dbc3ede9db3b
-      position: {x: 104.67706, y: 42.540222, z: 0}
-      rotation: {x: 0, y: 0, z: 0.63863605, w: -0.76950896}
-      length: 33.06033
+      position: {x: 104.677, y: 42.540283, z: 0}
+      rotation: {x: 0, y: 0, z: 0.638636, w: -0.76950896}
+      length: 33.060333
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4286643968
     - name: Cabeza_16
       guid: 5274a3a5df5628d4590d2f4da0591794
-      position: {x: 54.51288, y: 49.236023, z: 0}
-      rotation: {x: 0, y: 0, z: -0.76515293, w: 0.6438486}
-      length: 28.749643
+      position: {x: 54.512756, y: 49.236023, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7651529, w: 0.64384866}
+      length: 28.74965
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278223103
     - name: Cabeza_17
       guid: a8e84fa81da8d9841ba8238fe039f05b
-      position: {x: 80.81616, y: 43.166077, z: 0}
-      rotation: {x: 0, y: 0, z: -0.7228413, w: 0.691014}
+      position: {x: 80.81604, y: 43.166077, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7228413, w: 0.6910141}
       length: 32.116768
       parentId: -1
       color:
@@ -9780,9 +9780,9 @@ ScriptedImporter:
         rgba: 4278255488
     - name: Cabeza_14
       guid: edda69da6a72a3042b13bc8aec5e1c60
-      position: {x: 9.421539, y: 73.51593, z: 0}
-      rotation: {x: 0, y: 0, z: -0.73460704, w: 0.6784928}
-      length: 25.516508
+      position: {x: 9.421448, y: 73.51599, z: 0}
+      rotation: {x: 0, y: 0, z: -0.73460704, w: 0.6784929}
+      length: 25.516506
       parentId: -1
       color:
         serializedVersion: 2
@@ -10184,15 +10184,15 @@ ScriptedImporter:
       guid: 14328e93277c8174f833a981b1adecc6
       position: {x: 55.686184, y: 49.06481, z: 0}
       rotation: {x: 0, y: -0, z: 0.9188798, w: 0.39453766}
-      length: 166.43352
+      length: 166.43353
       parentId: 19
       color:
         serializedVersion: 2
         rgba: 4278255615
     - name: Codo De
       guid: 09a81caffb1c88e468a11e8ada43b0ce
-      position: {x: 166.43353, y: -0.000053633743, z: 0}
-      rotation: {x: 0, y: 0, z: 0.18137982, w: 0.98341316}
+      position: {x: 166.43352, y: -0.000045098655, z: 0}
+      rotation: {x: 0, y: 0, z: 0.18137975, w: 0.98341316}
       length: 125.13786
       parentId: 1
       color:
@@ -10200,8 +10200,8 @@ ScriptedImporter:
         rgba: 4278255360
     - name: Mano De
       guid: 60753dabaee3393429ecbb250261331f
-      position: {x: 125.137886, y: -0.000011598648, z: 0}
-      rotation: {x: 0, y: 0, z: 0.109109156, w: 0.9940298}
+      position: {x: 125.137856, y: 0.000009974653, z: 0}
+      rotation: {x: 0, y: 0, z: 0.10910926, w: 0.99402976}
       length: 56.218246
       parentId: 2
       color:
@@ -10211,24 +10211,24 @@ ScriptedImporter:
       guid: b6bda867516081b4697f740fe8fcf0ad
       position: {x: 18.672564, y: -44.39384, z: 0}
       rotation: {x: 0, y: -0, z: 0.9956726, w: 0.09293106}
-      length: 170.35728
+      length: 170.35736
       parentId: 19
       color:
         serializedVersion: 2
         rgba: 4294901760
     - name: codo Iz
       guid: a93acb01fa8ff19429b588479f00169e
-      position: {x: 170.35735, y: 0.0000058272453, z: 0}
+      position: {x: 170.35738, y: 0.00003827856, z: 0}
       rotation: {x: 0, y: 0, z: 0.20292652, w: 0.979194}
-      length: 119.847466
+      length: 119.84744
       parentId: 4
       color:
         serializedVersion: 2
         rgba: 4294902015
     - name: Mano Izq
       guid: a71b5c3c587e915428dbd5fb1f3bdfcd
-      position: {x: 119.84746, y: 0.000016239073, z: 0}
-      rotation: {x: 0, y: 0, z: 0.06383415, w: 0.99796057}
+      position: {x: 119.84747, y: 0.0000032593416, z: 0}
+      rotation: {x: 0, y: 0, z: 0.06383412, w: 0.99796057}
       length: 53.68293
       parentId: 5
       color:
@@ -10237,25 +10237,25 @@ ScriptedImporter:
     - name: Muslo Izq
       guid: c8f0a5c4617a7cc419ec085f41e4508a
       position: {x: -19.821669, y: 39.586853, z: 0}
-      rotation: {x: 0, y: 0, z: 0.025218675, w: 0.99968195}
-      length: 197.23923
+      rotation: {x: 0, y: 0, z: 0.025219856, w: 0.99968195}
+      length: 197.23926
       parentId: 20
       color:
         serializedVersion: 2
         rgba: 4278255488
     - name: Rodilla Izq
       guid: b35acb7a630754a4ebbb636d13f5e5dd
-      position: {x: 197.23921, y: 0.00022657498, z: 0}
-      rotation: {x: 0, y: 0, z: -0.08922997, w: 0.9960111}
-      length: 185.3948
+      position: {x: 197.23921, y: -0.0002074681, z: 0}
+      rotation: {x: 0, y: 0, z: -0.08923115, w: 0.99601096}
+      length: 185.39482
       parentId: 7
       color:
         serializedVersion: 2
         rgba: 4286643968
     - name: Pie Izq
       guid: 860a223db1266034bad975c403738389
-      position: {x: 185.3948, y: -0.000018294262, z: 0}
-      rotation: {x: 0, y: 0, z: 0.41368908, w: 0.9104182}
+      position: {x: 185.39482, y: -0.000017314762, z: 0}
+      rotation: {x: 0, y: 0, z: 0.4136891, w: 0.9104182}
       length: 64.15989
       parentId: 8
       color:
@@ -10265,23 +10265,23 @@ ScriptedImporter:
       guid: b1d174d987da8824eb0deca4bd35358d
       position: {x: -16.587358, y: -36.394817, z: 0}
       rotation: {x: 0, y: 0, z: -0.069661625, w: 0.9975707}
-      length: 215.9721
+      length: 215.97214
       parentId: 20
       color:
         serializedVersion: 2
         rgba: 4294901888
     - name: Rodila De
       guid: 8bfc828136b579247800b75cc6a32695
-      position: {x: 215.97214, y: -0.000015290112, z: 0}
+      position: {x: 215.97217, y: -0.000011033962, z: 0}
       rotation: {x: 0, y: 0, z: -0.043595348, w: 0.9990493}
-      length: 163.85138
+      length: 163.85135
       parentId: 10
       color:
         serializedVersion: 2
         rgba: 4286578943
     - name: Pie De Idle
       guid: d80beb2f38c7e2849988b155eacffac4
-      position: {x: 163.85136, y: -0.0000062409645, z: 0}
+      position: {x: 163.85135, y: -0.000004522887, z: 0}
       rotation: {x: 0, y: 0, z: 0.050394747, w: 0.9987294}
       length: 47.821873
       parentId: 11
@@ -10291,7 +10291,7 @@ ScriptedImporter:
     - name: Muslo De
       guid: 94eaf6e4d4a96944888da7038d923a69
       position: {x: -16.913574, y: -42.992325, z: 0}
-      rotation: {x: 0, y: 0, z: 0.014938535, w: 0.9998884}
+      rotation: {x: 0, y: 0, z: 0.014938534, w: 0.9998884}
       length: 199.87329
       parentId: 20
       color:
@@ -10299,18 +10299,18 @@ ScriptedImporter:
         rgba: 4278255360
     - name: Rodilla De
       guid: 541685541440fc744b8dde87c264a374
-      position: {x: 199.87328, y: -0.00053093507, z: 0}
+      position: {x: 199.87328, y: -0.000531453, z: 0}
       rotation: {x: 0, y: 0, z: -0.08476551, w: 0.99640095}
-      length: 178.43466
+      length: 178.43468
       parentId: 13
       color:
         serializedVersion: 2
         rgba: 4294967040
     - name: Pie De
       guid: 69ff30b2fad175d408850a47ec24f4ee
-      position: {x: 178.43468, y: 0.000030621897, z: 0}
-      rotation: {x: 0, y: 0, z: 0.29699156, w: 0.9548802}
-      length: 54.42114
+      position: {x: 178.4347, y: 0.000033823533, z: 0}
+      rotation: {x: 0, y: 0, z: 0.39692748, w: 0.91785}
+      length: 63.56693
       parentId: 14
       color:
         serializedVersion: 2
@@ -10335,7 +10335,7 @@ ScriptedImporter:
         rgba: 4278190335
     - name: Columna_2
       guid: 07e828e7a51c31a4b9f05ce25799316c
-      position: {x: 54.56411, y: 0.00004203926, z: 0}
+      position: {x: 54.56411, y: 0.00007254942, z: 0}
       rotation: {x: 0, y: 0, z: 0.08404805, w: 0.9964617}
       length: 86.847046
       parentId: 17
@@ -10362,17 +10362,17 @@ ScriptedImporter:
         rgba: 4294934528
     - name: Cuello
       guid: af4f510135813724cb93616abd3b3eaf
-      position: {x: 54.144936, y: 0.000003422705, z: 0}
-      rotation: {x: 0, y: 0, z: -0.04508214, w: 0.9989833}
-      length: 74.33304
+      position: {x: 54.144947, y: 0.00003214805, z: 0}
+      rotation: {x: 0, y: 0, z: -0.04508148, w: 0.9989833}
+      length: 74.333115
       parentId: 19
       color:
         serializedVersion: 2
         rgba: 4294901888
     - name: Cabeza
       guid: 7cf3f1daaba50464c82e04d95a12925c
-      position: {x: 74.333084, y: 0.000054360753, z: 0}
-      rotation: {x: 0, y: 0, z: -0.123067014, w: 0.99239844}
+      position: {x: 74.333084, y: -0.000024298759, z: 0}
+      rotation: {x: 0, y: 0, z: -0.12306761, w: 0.9923983}
       length: 160.22975
       parentId: 21
       color:
